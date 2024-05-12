@@ -58,6 +58,9 @@ The following resources will be used as references for the project:
 
 - nodejs
 - npm
+- reactjs
+- expressjs
+- MongoDB
 
 ## Getting started
 
@@ -77,6 +80,9 @@ Next, open localhost server:
 ```bash
 localhost:5173
 ```
+
+
+
 
 
 
